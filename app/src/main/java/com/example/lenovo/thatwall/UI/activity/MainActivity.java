@@ -1,7 +1,9 @@
-package com.example.lenovo.thatwall;
+package com.example.lenovo.thatwall.UI.activity;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+import com.example.lenovo.thatwall.R;
 
 public class MainActivity extends AppCompatActivity {
 
